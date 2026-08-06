@@ -7,7 +7,7 @@ The project combines data preprocessing, feature engineering, machine learning, 
 
 ## 🚀 Live Demo
 
-🔗 **Live Application:** *Coming Soon*
+🔗 **Live Application:** *https://paras-customer-churn-prediction-system.streamlit.app/*
 
 ---
 
