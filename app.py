@@ -332,6 +332,6 @@ with col2:
 # --------------------------------------------------
 
 st.markdown(
-    '<div class="footer-note">Developed by Paras — Customer Churn Prediction System</div>',
+    '<div class="footer-note">Developed by Pritesh — Customer Churn Prediction System</div>',
     unsafe_allow_html=True
 )
