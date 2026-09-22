@@ -271,7 +271,7 @@ hr{
 st.markdown("""
 <div class="dash-header">
     <div class="dash-eyebrow">Prediction Tool</div>
-    <h1>Customer Churn Prediction</h1>
+    <h1>AI-Powered Customer Churn Prediction and Business Intelligence Dashboard</h1>
     <p>Enter the customer's information to estimate churn risk and receive business
     recommendations for improving customer retention.</p>
 </div>
