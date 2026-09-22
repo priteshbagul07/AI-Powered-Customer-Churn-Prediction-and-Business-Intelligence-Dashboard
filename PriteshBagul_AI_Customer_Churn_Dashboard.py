@@ -4,7 +4,7 @@ import streamlit as st
 # PAGE CONFIG
 # --------------------------------------------------
 st.set_page_config(
-    page_title="Customer Churn Prediction System",
+    page_title="AI-Powered Customer Churn Prediction and Business Intelligence Dashboard",
     layout="wide"
 )
 
