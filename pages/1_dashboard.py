@@ -100,7 +100,7 @@ hr{
 
 st.markdown("""
 <div class="dash-header">
-    <h1>Customer Churn Analytics</h1>
+    <h1>AI-Powered Customer Churn Prediction and Business Intelligence Dashboard</h1>
     <p>Interactive dashboard for monitoring customer churn, retention trends, and business insights</p>
 </div>
 """, unsafe_allow_html=True)
