@@ -1,13 +1,7 @@
-# 📊 Customer Churn Prediction System
+# AI-Powered Customer Churn Prediction and Business Intelligence Dashboard
 
 An end-to-end Machine Learning application that predicts customer churn using telecom customer data and provides interactive analytics through a Streamlit dashboard.
 The project combines data preprocessing, feature engineering, machine learning, and business intelligence to help organizations identify at-risk customers and improve customer retention strategies.
-
----
-
-## 🚀 Live Demo
-
-🔗 **Live Application:** *https://paras-customer-churn-prediction-system.streamlit.app/*
 
 ---
 
@@ -144,6 +138,18 @@ streamlit run app.py
 ```
 
 ---
+# IBM SkillsBuild Internship Alignment
+
+This project was developed as part of the IBM SkillsBuild Data Analytics with AI Internship 2026.
+
+The project demonstrates:
+
+- Data Cleaning and Preparation
+- Exploratory Data Analysis
+- Business Intelligence
+- Machine Learning
+- Predictive Analytics
+- Data-Driven Decision Making
 
 # 💼 Business Value
 
@@ -169,9 +175,12 @@ This application helps businesses:
 
 # 👨‍💻 Author
 
-**Paras**
+Author: Pritesh Pandharinath Bagul
 
-📧 LinkedIn: *https://www.linkedin.com/in/paras-dhankhar/*
+IBM SkillsBuild Data Analytics with AI Internship 2026
+
+B.Tech Computer Engineering
+Pimpri Chinchwad College of Engineering, Pune
 
 ---
 
